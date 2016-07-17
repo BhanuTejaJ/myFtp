@@ -1,2 +1,2 @@
-# myftp-git
+# myFtp
 FTP Server and Client using Sockets.
